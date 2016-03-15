@@ -1,0 +1,14 @@
+PODS:
+  - Gb-Date (0.1.0)
+
+DEPENDENCIES:
+  - Gb-Date (from `../`)
+
+EXTERNAL SOURCES:
+  Gb-Date:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Gb-Date: d7d4f9753462903a0cdf39553fc9c1b2934b792f
+
+COCOAPODS: 0.39.0

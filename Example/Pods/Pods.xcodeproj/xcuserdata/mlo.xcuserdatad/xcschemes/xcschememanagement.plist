@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Gb-Date-Gb-Date.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Gb-Date.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gb-Date_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Gb-Date_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>044CF410A4239AAA977268653E53DE50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0590E687479671A40BC956A7C027227F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8835F05D8082CF1B8B85AF075506BF5C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FF126E26D2204FEE0E371C4FBAB7D161</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+{
+  "name": "Gb-Date",
+  "version": "0.1.0",
+  "summary": "A short description of Gb-Date.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Gb-Date",
+  "license": "MIT",
+  "authors": {
+    "Michal Olszewski": "olszewski.m.l@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Gb-Date.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "Gb-Date": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
