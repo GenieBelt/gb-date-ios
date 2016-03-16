@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = "Gb-Date"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of Gb-Date."
+  s.version          = "0.1.1"
+  s.summary          = "A library to effectively serialize and deserialize NSDate for API communication"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                      The library allows to easily send and receive dates as float or string values.
                        DESC
 
   s.homepage         = "https://github.com/GenieBelt/gb-date-ios"
