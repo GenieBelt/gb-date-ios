@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
-                      The library allows to easily send and receive dates as float or string values.
+                      The library is useful for serializing and deserializing NSDate objects - it allows to easily send and receive dates as float or string values. Moreover you can find classes designed to help you synchronize data with Ruby on Rails classes like: Time, Date, DateTime.
                        DESC
 
   s.homepage         = "https://github.com/GenieBelt/gb-date-ios"
