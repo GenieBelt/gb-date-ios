@@ -1,0 +1,8 @@
+CLANG_CXX_LANGUAGE_STANDARD = c++0x
+CLANG_CXX_LIBRARY = libc++
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = -DDEVELOPER_BIN_DIR=@\"${DEVELOPER_BIN_DIR}\" $(inherited) -iquote "$CONFIGURATION_BUILD_DIR/Cedar.framework/Headers" -iquote "$CONFIGURATION_BUILD_DIR/Gb_Date.framework/Headers"
+OTHER_LDFLAGS = $(inherited) -framework "Cedar" -framework "Gb_Date"
+PODS_FRAMEWORK_BUILD_PATH = $(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Gb-Date-Cedar-Tests
+PODS_ROOT = ${SRCROOT}/Pods

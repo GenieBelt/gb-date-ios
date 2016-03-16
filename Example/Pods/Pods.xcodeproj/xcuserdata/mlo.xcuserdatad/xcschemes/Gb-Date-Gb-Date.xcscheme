@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '66E5D257F3C6757E771F547A'
-               BlueprintName = 'Gb-Date-Gb-Date'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Gb-Date.bundle'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9108096CCB6A7DC039C773613CB843F4"
+               BlueprintName = "Gb-Date-Gb-Date"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "Gb-Date.bundle">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

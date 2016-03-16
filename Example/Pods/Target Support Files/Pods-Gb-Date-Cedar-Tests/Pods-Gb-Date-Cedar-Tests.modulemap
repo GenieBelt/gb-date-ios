@@ -1,0 +1,6 @@
+framework module Pods_Gb_Date_Cedar_Tests {
+  umbrella header "Pods-Gb-Date-Cedar-Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

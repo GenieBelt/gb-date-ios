@@ -3,15 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of Gb-Date.",
   "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/Gb-Date",
+  "homepage": "https://github.com/GenieBelt/gb-date-ios",
   "license": "MIT",
   "authors": {
     "Michal Olszewski": "olszewski.m.l@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/Gb-Date.git",
+    "git": "https://github.com/GenieBelt/gb-date-ios.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "http://twitter.com/MichalOlszewski",
   "platforms": {
     "ios": "7.0"
   },

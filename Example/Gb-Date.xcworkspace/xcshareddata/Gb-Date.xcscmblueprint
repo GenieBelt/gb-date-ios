@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D2CC64DFD6F89FF30A632C081427BB01FB5EE470",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D2CC64DFD6F89FF30A632C081427BB01FB5EE470" : 0,
+    "BC82DAD49110A2A689D04007DB35022A0F63F763" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A3960413-3EDE-459F-8D07-05599EE05355",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D2CC64DFD6F89FF30A632C081427BB01FB5EE470" : "gb-date-ios\/",
+    "BC82DAD49110A2A689D04007DB35022A0F63F763" : "gb-sync-objc\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Gb-Date",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Gb-Date.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:GenieBelt\/gb-sync-objc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC82DAD49110A2A689D04007DB35022A0F63F763"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GenieBelt\/gb-date-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2CC64DFD6F89FF30A632C081427BB01FB5EE470"
+    }
+  ]
+}

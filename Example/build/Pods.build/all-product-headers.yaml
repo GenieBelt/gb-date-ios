@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mlo/Documents/Xcode/pods/gb-date-ios/Example/build/Debug-iphonesimulator/Gb_Date.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Gb-Date-umbrella.h",
+          'external-contents': "/Users/mlo/Documents/Xcode/pods/gb-date-ios/Example/Pods/Target Support Files/Gb-Date/Gb-Date-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Gb_Date-Swift.h",
+          'external-contents': "/Users/mlo/Documents/Xcode/pods/gb-date-ios/Example/build/Debug-iphonesimulator/Gb_Date.framework/Headers/Gb_Date-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mlo/Documents/Xcode/pods/gb-date-ios/Example/build/Debug-iphonesimulator/Gb_Date.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mlo/Documents/Xcode/pods/gb-date-ios/Example/build/Pods.build/Debug-iphonesimulator/Gb-Date.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

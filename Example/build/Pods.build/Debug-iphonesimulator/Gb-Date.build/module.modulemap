@@ -1,0 +1,6 @@
+framework module Gb_Date {
+  umbrella header "Gb-Date-umbrella.h"
+
+  export *
+  module * { export * }
+}
