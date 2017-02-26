@@ -39,6 +39,15 @@
     return self;
 }
 
+- (instancetype)initWithNumber:(NSNumber *)seconds timeZoneForSecondsFromGMT:(NSNumber *)offset {
+    if (!seconds || [seconds isEqual:[NSNull null]]) {
+        return nil;
+    }
+    seconds = @([seconds doubleValue] + offset.integerValue);
+    self = [super initWithNumber:seconds];
+    return self;
+}
+
 - (NSString *)apiString {
     return [self.class apiStringFromDate:self];
 }

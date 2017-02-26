@@ -11,4 +11,5 @@
 
 @interface GbDate : GbBaseDate
 
+- (instancetype)initWithNumber:(NSNumber *)seconds timeZoneForSecondsFromGMT:(NSNumber *)offset;
 @end
